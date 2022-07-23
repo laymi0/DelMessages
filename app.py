@@ -11,7 +11,7 @@ def delete(client, message):
 
 
 def main():
-    app = Client('bot', 9486126, '4c9a424419e82df39660998e18417397')
+    app = Client('bot', 123, '')
 
     
     app.add_handler(MessageHandler(delete), filters.bot)
