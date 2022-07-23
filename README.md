@@ -1,0 +1,1 @@
+This script will help you remove the welcome message for t.me/TrueMafiaBot
